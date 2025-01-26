@@ -102,3 +102,58 @@ After the data was prepared, I created the following visualizations using **Powe
 
   ![Screenshot 2024-09-06 182341](https://github.com/user-attachments/assets/887b0845-2b26-4e98-a23b-b1692de52893)
 
+  #### Visual 2: Top 10 Countries by Revenue and Quantity Sold (CMO Request)
+
+**Description:** The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The United Kingdom was excluded as per the request.
+
+- **Purpose:** To analyze which countries drive the highest revenue and assess the quantity sold in those regions.
+  
+  ![Screenshot 2024-09-06 190327](https://github.com/user-attachments/assets/c4e2ec72-7155-4288-a416-4b9e32fbd37d)
+
+#### Visual 3: Top 10 Customers by Revenue (CMO Request)
+
+**Description:** The CMO of the online retail store wants to view the information on the top 10 customers by revenue. He is interested in a visual that shows the greatest revenue generating customer at the start and gradually declines to the lower revenue generating customers. The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products.
+
+- **Purpose:** To help the CMO target high-revenue customers and ensure their satisfaction to foster continued business.
+
+  ![Screenshot 2024-09-06 190346](https://github.com/user-attachments/assets/750d0e1f-bad7-448d-a206-656eed974040)
+
+#### Visual 4: Global Product Demand by Country (CEO Request)
+
+**Description:** The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. The data is presented in a single view to easily identify regions with high demand, aiding in the expansion strategy.  There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.
+
+- **Purpose:** To assist the CEO in identifying countries with the greatest demand for the company’s products.
+  
+  ![Screenshot 2024-09-06 190406](https://github.com/user-attachments/assets/5458a5be-a264-488f-a8c8-2daf0ebda734)
+
+#### Bonus Visual - Total Orders over Time
+
+- **Purpose:** The purpose of this visual is to understand **order distribution trends throughout the day.** We can identify high-traffic hours, peak hours. Additionally, it provides insights into customer behavior as well.
+
+  ![Screenshot 2024-09-06 190426](https://github.com/user-attachments/assets/b8847215-0afe-4b52-ae6b-9a891e5a8669)
+
+### Findings
+
+- **Monthly Revenue for 2011**
+  - **Seasonal Peaks:** We saw significant revenue peaks in March, May, and November.
+  - **Highest Revenue:** November stands out with highest revenue reaching approximately $1.20 millions.
+  - **Year-End Drop:** Ther is a noticeable drop in December.
+    
+- **Top 10 Countries by Revenue and Quantity Sold**
+  - Countries like Germany and France show higher total revenue compared to quantity sold, indicating there might be purchasing higher-priced products.
+  - Netherlands leads the pack in both revenue and quantity sold.
+  - Countries like Japan and Sweden aren't performing well, which might present opportunities for growth.
+    
+- **Global Product Demand by Country**
+  - North America and parts of Europe stand out with high demands, as indicated by larger circles.
+  - Regions like Africa and South America show samller circles, suggesting potential growth opportunities.
+    
+- **Total Orders over Time**
+  - Highest number of orders are around midday i.e. between 12PM to 2PM.
+  - The number of orders fluctuates throughout the day.
+
+### Conclusion
+
+This project demonstrates not only my technical skills in data visualization but also my commitment to delivering high-quality, actionable insights.
+
+
