@@ -92,3 +92,13 @@ Before creating the visuals, I ensured the data was cleaned to eliminate errors 
 
 After the data was prepared, I created the following visualizations using **Power BI**:
 
+#### Visuals
+
+##### Visual 1: Monthly Revenue for 2011 (CEO Request)
+
+**Description:** The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the next year.
+
+- **Purpose:** To help the CEO understand monthly revenue fluctuations and identify peak periods.
+
+  ![Screenshot 2024-09-06 182341](https://github.com/user-attachments/assets/887b0845-2b26-4e98-a23b-b1692de52893)
+
